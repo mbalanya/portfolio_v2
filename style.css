@@ -298,6 +298,31 @@ p{
 
 }
 
+/*About section*/
+#about .about {
+    flex-direction: column-reverse;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 20px;
+}
+
+#about .col-left {
+    width: 350px;
+    height: 360px;
+}
+
+#about .col-right {
+    width: 100%;
+}
+
+#about .col-right h2 {
+    font-size: 1.7rem;
+    font-weight: 500;
+    letter-spacing: .3rem;
+    margin-bottom: 10px;
+}
+
 /* keyframes */
 @keyframes text_reveal_box {
     50% {
