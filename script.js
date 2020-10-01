@@ -23,3 +23,11 @@ menu_item.forEach(item=>{
         mobile_menu.classList.toggle('active');
     });
 });
+
+function toggle() {
+    var popup = document.getElementById('popup');
+    popup.classList.toggle('active');
+
+    var blur = document.getElementById('blur');
+    blur.classList.toggle('active');
+}
