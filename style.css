@@ -39,8 +39,8 @@ p{
     color: black;
 }
 p span{
-    color: rgb(138, 135, 135);
-    font-weight: 300;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
 }
 
 .section-title {
