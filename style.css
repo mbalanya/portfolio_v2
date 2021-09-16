@@ -38,6 +38,10 @@ p{
     letter-spacing: .05rem;
     color: black;
 }
+p span{
+    color: rgb(138, 135, 135);
+    font-weight: 300;
+}
 
 .section-title {
     font-size: 4rem;
